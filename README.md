@@ -14,6 +14,11 @@ The administrator should be able to create all base data including Semester, Can
  Lecturer Details
  Internal Results
 4. Creation Of Tabs
+ Semester
+ Candidate
+ Course Details
+ Lecturer Details
+ Internal Results
 5. Creation Of Lightning App (The Candidate Internal Result Card)
 6. Creation Of Fields And Relationship
 ![image](https://github.com/Cheshta300899/SmartInternz-Internship-Guided-Project/assets/85059628/aa4a104e-d62e-41d5-ba7a-60aefc10d6a4)
